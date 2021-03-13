@@ -1,3 +1,3 @@
 # S-L-M-World
-Hi I am Basy and I am larning Git!
+Hi I am Basy and I am learning Git!
 So join me into the trip...
